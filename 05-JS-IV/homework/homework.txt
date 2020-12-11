@@ -1,0 +1,5 @@
+OBJETOS: son como arrays en donde cada posicion es una propiedad  y se guardan valores en cada posicion de cualquier tipo.
+PROPIEDADES: Son las caracteristicas de un objeto como por ejemplo una persona contiene un nombre, edad, telefono,etc.
+METODOS: Los metodos son funciones que se alojan dentro de un objeto.
+BUCLES FOR...IN: son bucles especiales para recorrer objetos ya eu con un bucle normal no podriamos hacerlo.
+NOTACION DE PUNTOS VS CORCHETES: es una funcion rapida para saber lo que aloja la propiedad de un objeto "especificamente" a comparacion de los corchetes que me permiten alojar una variable que contenga algun nombre de una propiedad y traera la propiedad correctamente es decir los brackets me permiten realizar un poco mas de tareas aunque su escritura sea mas larga 
