@@ -1,0 +1,1 @@
+ARRAYS: son cajas grandes que guardan muchos valores (tantos como desee), pueden guardar numeros,strings,arrays,funciones,booleanos en pocas palabras guardan lo que deseemos.
