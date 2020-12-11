@@ -1,0 +1,5 @@
+FOR: es una funcion que repite codigo hasta que la condicion sea falsa, los parametros que utiliza son: iniciar una variable; hasta un numero o parametro; y el incremento de la variable.
+&&,||,!: son operadores logicos  que nos permiten realizar una operacion entre valores de tipo booleano :
+            &&: este operador solo es verdadero si las 2 variables son verdaderas.
+            ||: este operador solo es falso cuando las dos variables son falsas.
+            !: este operador es la negacion de la variable, cambia el valor a lo opuesto.

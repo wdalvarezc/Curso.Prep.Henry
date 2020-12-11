@@ -1,0 +1,5 @@
+VARIABLES:  son cajitas en donde podemos guardar cualquier tipo de dato como numeros, caracteres, operaciones, etc.
+STRINGS: son cadenas de texto es decir palabras o frases que van siempre dentor de comillas para ser diferenciadas.
+FUNCIONES: son cajas un poco ms grandes que nos permiten trabajar con las variables , como hacer operaciones entre ellas y arrojar un resultado.
+DECLARACIONES IF: nos permiten validar si una operacion es falsa o verdadera y realizar acciones por cada operacion sea verdadera o falsa.
+OPERADORES BOOLEANOS: son aquellos valores que nos ayudan a saber si una operacion es verdadera o falsa.
