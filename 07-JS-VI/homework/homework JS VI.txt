@@ -1,0 +1,1 @@
+CALL BACKS: son funciones que podemos llamar desde otra funcion, pero pasada como un argumento, es decir sin inicialiarla '!()'.
