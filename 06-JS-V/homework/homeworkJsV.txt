@@ -1,0 +1,2 @@
+PROTOTYPE: es una funcion que me ayuda a crear un metodo a todos los objetos de una clase para minimizar codigo.
+CONSTRUCTORS:es una funcion que al ser utilizada con un 'new', podemos hacer uso de sus propiedades y emplearlas en el objeto.
